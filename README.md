@@ -2,7 +2,7 @@
 
 [Download](https://pan.baidu.com/s/1mMDKUu02V0s8rXstewv26A) the dataset
 
-RSD46-WHU is a larget-scale open dataset for scene classification in remote sensing images. The dataset is collected from Google Earth and Tianditu. The ground resolution of most classes is 0.5m, and the others are about 2m. There are 500-3000 images in each class. The RSD46-WHU dataset has a number of 11,7000 images with 46 classes.
+RSD46-WHU is a larget-scale open dataset for scene classification in remote sensing images. The dataset is collected from Google Earth and Tianditu. The ground resolution of most classes is 0.5m, and the others are about 2m. There are 500-3000 images in each class. The RSD46-WHU dataset has a number of 117,000 images with 46 classes.
 
 RSD46-WHU is free for education, research and commercial use.
 
