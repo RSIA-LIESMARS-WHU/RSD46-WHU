@@ -2,13 +2,13 @@
 
 [Download](https://pan.baidu.com/s/1mMDKUu02V0s8rXstewv26A) the dataset
 
-RSD46-WHU is a larget-scale open dataset for scene classification in remote sensing images. The dataset is collected from Google Earth and Tianditu. The ground resolution of most classes is 0.5m, and the others are about 2m. There are 500-3000 images in each class. The RSD46-WHU dataset has a number of 117,000 images with 46 classes.
+RSD46-WHU is a larget-scale open dataset for scene classification in remote sensing images. The dataset is collected from Google Earth and Tianditu. The ground resolution of most classes is 0.5m, and the others are about 2m. There are 500-3000 images in each class. The RSD46-WHU dataset contains 117,000 images with 46 classes.
 
 RSD46-WHU is free for education, research and commercial use.
 
 ![samples](./dataset2.jpg)
 
-Please cite our paper if the dataset is useful for you. Thank you!
+Please cite our papers if the dataset is useful for you. Thank you!
 
 1.Y. Long, Y. Gong, Z. Xiao and Q. Liu, "Accurate Object Localization in Remote Sensing Images Based on Convolutional Neural Networks," in IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 2486-2498, May 2017. doi: 10.1109/TGRS.2016.2645610
 
